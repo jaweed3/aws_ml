@@ -1,0 +1,6 @@
+setup.py
+aws_ml.egg-info/PKG-INFO
+aws_ml.egg-info/SOURCES.txt
+aws_ml.egg-info/dependency_links.txt
+aws_ml.egg-info/requires.txt
+aws_ml.egg-info/top_level.txt
